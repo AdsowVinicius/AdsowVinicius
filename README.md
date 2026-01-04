@@ -13,7 +13,7 @@ Tenho experiência prática em **ETL/ELT, dashboards, automações e integraçã
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdsowVinicius&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdsowVinicius&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdsowVinicius&layout=compact&theme=dark)
 
 
